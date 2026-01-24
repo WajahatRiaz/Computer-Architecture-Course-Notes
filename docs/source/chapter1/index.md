@@ -6,9 +6,9 @@ This chapter covers the fundamentals of quantitative design and analysis in comp
 ---
 maxdepth: 2
 ---
-notes
-examples
-exercises
+notes.md
+examples.md
+exercises.md
 ```
 
 ## Overview
