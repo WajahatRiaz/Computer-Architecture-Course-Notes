@@ -1,35 +1,20 @@
 # Computer Architecture Course Notes
 
-This repository contains notes for a Computer Architecture course, built with Sphinx documentation.
+This repository contains comprehensive notes for a Computer Architecture course, written in pure Markdown.
 
-## Documentation
+## Table of Contents
 
-### Building Locally
+- [Chapter 1](docs/source/chapter1/index.md)
+- [Chapter 2](docs/source/chapter2/index.md)
+- [Chapter 3](docs/source/chapter3/index.md)
+- [Chapter 4](docs/source/chapter4/index.md)
+- [Chapter 5](docs/source/chapter5/index.md)
+- [Chapter 6](docs/source/chapter6/index.md)
 
-1. Set up the virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
-   ```
+## Viewing the Notes
 
-2. Build the documentation:
-   ```bash
-   cd docs
-   make html
-   ```
+You can view the notes directly on GitHub, in your text editor, or with a Markdown preview tool like VS Code.
 
-3. View the documentation:
-   Open `docs/build/html/index.html` in your browser.
+## Contributing
 
-[Link to live website](https://wajahatriaz.github.io/Computer-Architecture-Course-Notes/)
-
-## Structure
-
-- `docs/` - Sphinx documentation
-  - `source/` - Documentation source files (Markdown)
-  - `build/` - Generated HTML (git-ignored)
-- `Chapter-1/` - Legacy markdown files
-- `requirements.txt` - Python dependencies
-
-See `docs/README.md` for more details on working with the documentation.
+Feel free to add notes, examples, or corrections by editing the Markdown files.
