@@ -7,6 +7,8 @@ This chapter explores instruction-level parallelism (ILP) and techniques to expl
 maxdepth: 2
 ---
 notes
+examples
+exercises
 ```
 
 ## Overview

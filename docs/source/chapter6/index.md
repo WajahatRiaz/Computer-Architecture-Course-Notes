@@ -7,6 +7,8 @@ This chapter explores thread-level parallelism and multiprocessor architectures.
 maxdepth: 2
 ---
 notes
+examples
+exercises
 ```
 
 ## Overview

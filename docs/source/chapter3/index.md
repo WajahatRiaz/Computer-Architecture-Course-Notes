@@ -7,6 +7,8 @@ This chapter covers the fundamentals and intermediate concepts of pipelining in 
 maxdepth: 2
 ---
 notes
+examples
+exercises
 ```
 
 ## Overview

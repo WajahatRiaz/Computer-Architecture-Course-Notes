@@ -7,6 +7,8 @@ This chapter introduces instruction set architecture principles and the RISC-V i
 maxdepth: 2
 ---
 notes
+examples
+exercises
 ```
 
 ## Overview

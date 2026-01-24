@@ -7,6 +7,8 @@ This chapter covers the design and optimization of memory hierarchies.
 maxdepth: 2
 ---
 notes
+examples
+exercises
 ```
 
 ## Overview
