@@ -22,8 +22,7 @@ This repository contains notes for a Computer Architecture course, built with Sp
 3. View the documentation:
    Open `docs/build/html/index.html` in your browser.
 
-### Live Website
-https://wajahatriaz.github.io/Notes-Computer-Architecture/
+[Link to live website](https://wajahatriaz.github.io/Computer-Architecture-Course-Notes/)
 
 ## Structure
 
