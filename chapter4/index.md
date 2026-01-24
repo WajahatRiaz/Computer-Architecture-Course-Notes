@@ -2,14 +2,11 @@
 
 This chapter explores instruction-level parallelism (ILP) and techniques to exploit it.
 
-```{toctree}
----
-maxdepth: 2
----
-notes.md
-examples.md
-exercises.md
-```
+## Contents
+
+- [Notes](notes.md)
+- [Examples](examples.md)
+- [Exercises](exercises.md)
 
 ## Overview
 

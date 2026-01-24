@@ -2,14 +2,11 @@
 
 This chapter covers the fundamentals of quantitative design and analysis in computer architecture.
 
-```{toctree}
----
-maxdepth: 2
----
-notes.md
-examples.md
-exercises.md
-```
+## Contents
+
+- [Notes](notes.md)
+- [Examples](examples.md)
+- [Exercises](exercises.md)
 
 ## Overview
 

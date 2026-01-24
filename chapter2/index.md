@@ -2,14 +2,11 @@
 
 This chapter introduces instruction set architecture principles and the RISC-V instruction set.
 
-```{toctree}
----
-maxdepth: 2
----
-notes.md
-examples.md
-exercises.md
-```
+## Contents
+
+- [Notes](notes.md)
+- [Examples](examples.md)
+- [Exercises](exercises.md)
 
 ## Overview
 
