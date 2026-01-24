@@ -1,8 +1,10 @@
 #!/bin/bash
 # Build script for Sphinx documentation
 
-# Activate virtual environment
-source venv/bin/activate
+# Activate virtual environment if it exists
+if [ -d "venv" ]; then
+    source venv/bin/activate
+fi
 
 # Build the documentation
 cd docs
