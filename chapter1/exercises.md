@@ -19,4 +19,10 @@ ANSWERS: B, C <br>
 
 ANSWER: Burnium is the worst! 
 
+
+## Question 3 : We have a website for ordering penguin-shaped USBs. WE have 2 servers, Order request is assigned to 1 server. A server rquest takes 1 ms to process the order. Meanwhile the server can't do anything else.
+A) Throughput = __________ orders/second <br>
+B) Latency = __________ ms <br>
+ANSWERS: A->2000, B->1 <br>
+
 Content coming soon...

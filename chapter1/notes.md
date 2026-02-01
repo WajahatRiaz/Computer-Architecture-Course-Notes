@@ -18,12 +18,11 @@ Every 18 months the number of transistors doubles on on a chip area
 ## Memory Wall
 The processor is getting faster over the years but memory is not getting faster. Thus there's a gap called the memory wall. We use caches for addressing these challenges.
 
-
 ## Power Wall 
 In modern processor design we can't just arbitrarily decrease the voltage. We hit a power wall. More details are given below:
 
 ### Dynamic Power
-$P = $ $\frac{1}{2}$ $.C.V^2.f$ <br>
+$P = \frac{1}{2} C V^2 f$ <br>
 
 We also mulltiply it by an activity factor otherwise one might assume that processor is switching on every clock cycle. 
 
@@ -31,6 +30,33 @@ We also mulltiply it by an activity factor otherwise one might assume that proce
 This is basically leakage due to low voltage. Transistor are also getting smaller which cause leakage. 
 
 There is U curve such that beying a certain point when voltage is increased then the dynamic power increases. Similarly, when the voltage drops then the static power increases. 
+
+
+## Computer Performance
+
+### Throughput and latency
+There are two aspects i.e. throughput and latency. 
+- Latency is defined as the time to complete a task. 
+- Throughput is defined number of tasks completed per unit of time. 
+Throughput and latency are inversely proportional  but not always the case. 
+
+### Speedup
+We generally say that X is better than Y Mathematically it is illustrated as:
+
+Speedup = Execution of y / Execution of X <br>
+alternatively, <br>
+Speedup = Performance of X / Performance of Y <br>
+
+
+If Speedup >= 1 then it is faster i.e. low latency or high throughtput <br>
+
+otherwise if speedup is < 1 then it is slower. 
+
+
+### Measuring performance
+
+We use benchmarks for performance measurements. 
+There are different types of benchmarking
 
 Content coming soon...
 
