@@ -1,4 +1,4 @@
-# Chapter 1 Notes
+# Chapter 1 Performance Metrics and Benchmarking
 
 What is computer architecture? <br>
 
@@ -6,14 +6,12 @@ Why do we need computer architecture?
 - we want to improve performance i.e. size, speed, power, energy efficiency
 - improving abilities i.e. 3d graphics, debugging support, security
 
-
 Designing a machine with current technology and parts lead to obselete machine. Therefore, one must anticipate the technology trends to build machines for the future. Now the question is that what are these trends? 
 
 ## Moore's Law
 Every 18 months the number of transistors doubles on on a chip area
 
 ## Denard Scaling
-
 
 ## Memory Wall
 The processor is getting faster over the years but memory is not getting faster. Thus there's a gap called the memory wall. We use caches for addressing these challenges.
@@ -30,7 +28,6 @@ We also mulltiply it by an activity factor otherwise one might assume that proce
 This is basically leakage due to low voltage. Transistor are also getting smaller which cause leakage. 
 
 There is U curve such that beying a certain point when voltage is increased then the dynamic power increases. Similarly, when the voltage drops then the static power increases. 
-
 
 ## Computer Performance
 
@@ -51,7 +48,6 @@ Speedup = Performance of X / Performance of Y <br>
 If Speedup >= 1 then it is faster i.e. low latency or high throughtput <br>
 
 otherwise if speedup is < 1 then it is slower. 
-
 
 ### Measuring performance
 
